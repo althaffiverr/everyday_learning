@@ -1,0 +1,30 @@
+   .head {
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+    
+  }
+  .price {
+    color: #11791b;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .cart {
+    background-color: #fffb00;
+    color: #111;
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-right: 4px;
+  }
+  .buy {
+    background-color: #f1b315;
+    color: #111;
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+  }

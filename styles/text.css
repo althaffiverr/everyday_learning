@@ -1,0 +1,35 @@
+  p{
+    font-family:verdana;
+    margin-top: 0px;
+    margin-bottom:0px;
+  }
+  .title {
+    font-weight:bold;
+    font-size:19px;
+
+  }
+  .sub{
+    color:grey;
+    margin-top:2px;
+  }
+  .des{
+    width:300px;
+    margin-top:20px;
+  }
+  .end{
+    color:white;
+    background-color:green;
+    width:120px;
+    text-align:center;
+    margin-top:10px;
+    padding-top:4px;
+    padding-bottom:4px;
+    border-radius:4px;
+    
+  }
+  .end:hover{
+    cursor:pointer;
+    background-color:lightgreen;
+    color:black;
+
+  }
